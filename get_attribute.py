@@ -284,5 +284,3 @@ def get_author(fileName):
 
     output.close()
 
-
-get_author("key2_result")
